@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-beginner/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/react-tutorial-beginner/static/js/main.014e8922.chunk.js",
+    "main.js.map": "/react-tutorial-beginner/static/js/main.014e8922.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-beginner/static/js/runtime-main.a49e24f3.js",
+    "runtime-main.js.map": "/react-tutorial-beginner/static/js/runtime-main.a49e24f3.js.map",
+    "static/js/2.e58b2eeb.chunk.js": "/react-tutorial-beginner/static/js/2.e58b2eeb.chunk.js",
+    "static/js/2.e58b2eeb.chunk.js.map": "/react-tutorial-beginner/static/js/2.e58b2eeb.chunk.js.map",
+    "index.html": "/react-tutorial-beginner/index.html",
+    "precache-manifest.06c6f8e83ffbf300cdf7baf67bc63a47.js": "/react-tutorial-beginner/precache-manifest.06c6f8e83ffbf300cdf7baf67bc63a47.js",
+    "service-worker.js": "/react-tutorial-beginner/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/react-tutorial-beginner/static/css/main.71bd5e9e.chunk.css.map",
+    "static/js/2.e58b2eeb.chunk.js.LICENSE": "/react-tutorial-beginner/static/js/2.e58b2eeb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a49e24f3.js",
+    "static/js/2.e58b2eeb.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.014e8922.chunk.js"
+  ]
+}
